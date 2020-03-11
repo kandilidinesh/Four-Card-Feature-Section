@@ -34,8 +34,8 @@ body{
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
     display: inline-block;
-    width: 25%;
-    padding-bottom: 20px;
+    width: 22%;
+    padding-bottom: 25px;
 }
   
 .card:hover {
@@ -43,8 +43,8 @@ box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
   
 .container {
-padding: 2px 16px;
-margin: 0 20px 20px 20px;
+padding: 2px 12px;
+margin: 0 15px 15px 15px;
 }
 
 .card-hr{
@@ -79,8 +79,12 @@ margin: 0 20px 20px 20px;
 
 .card-caption-heading{
     margin-bottom: 8px;
+    color: hsl(234, 12%, 34%);
 }
 
 .card-img{
     float: right;
+    margin-top: 18px;
+    width: 20%;
+    height: 20%;
 }
